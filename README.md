@@ -1,1 +1,1 @@
-# svg-logos
+# SVG Logo Collections
